@@ -12,5 +12,4 @@
 Frequently visited sites | <img src="https://img.shields.io/badge/-Qiita-white.svg?logo=qiita&style=flat-square"> <img src="https://img.shields.io/badge/-Zenn-white.svg?logo=zenn&style=flat-square">
 
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FZakki0925224)](https://twitter.com/Zakki0925224)
-![Profile views](https://gpvc.arturio.dev/Zakki0925224)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="Visitors"/>
